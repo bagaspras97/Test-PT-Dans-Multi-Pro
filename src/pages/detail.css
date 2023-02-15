@@ -1,0 +1,17 @@
+
+.description > ul {
+    list-style-type: disc; /* jenis marker */
+    margin: 0; /* margin luar */
+    padding: 0; /* padding dalam */
+}
+
+.description > ul > li{
+    margin: 0 0 0.5em 1.5em; /* margin luar */
+    padding: 0; /* padding dalam */
+}
+
+.detail-company > a, .how-to-apply > p > a {
+    color: blue;
+    text-decoration-line: underline;
+}
+ 
